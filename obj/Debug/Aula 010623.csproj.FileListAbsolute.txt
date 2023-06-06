@@ -1,0 +1,7 @@
+C:\Users\maicon.sconstancio\source\repos\Aula 010623\Aula 010623\bin\Debug\Aula 010623.exe.config
+C:\Users\maicon.sconstancio\source\repos\Aula 010623\Aula 010623\bin\Debug\Aula 010623.exe
+C:\Users\maicon.sconstancio\source\repos\Aula 010623\Aula 010623\bin\Debug\Aula 010623.pdb
+C:\Users\maicon.sconstancio\source\repos\Aula 010623\Aula 010623\obj\Debug\Aula 010623.csproj.AssemblyReference.cache
+C:\Users\maicon.sconstancio\source\repos\Aula 010623\Aula 010623\obj\Debug\Aula 010623.csproj.CoreCompileInputs.cache
+C:\Users\maicon.sconstancio\source\repos\Aula 010623\Aula 010623\obj\Debug\Aula 010623.exe
+C:\Users\maicon.sconstancio\source\repos\Aula 010623\Aula 010623\obj\Debug\Aula 010623.pdb
